@@ -1,0 +1,12 @@
+"""
+    git diff
+"""
+
+Sirve para ver las diferencias realizadas en un archivo.
+
+    * Se utiliza de la siguiente manera:
+
+        git diff <nombre_archivo.ext>
+
+        - En rojo te muestra lo que ya tenías.
+        - En verde te muestra lo que has cambiado.

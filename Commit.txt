@@ -1,0 +1,17 @@
+"""
+    git commit
+"""
+
+Crea un punto de control en nuestro código.
+
+    * Realizar un punto de control (Se abre un editor de texto en consola):
+
+        git commit
+
+        Nota: Se escribe una descripción en el editor de texto de consola.
+
+    * Realizar un punto de control (son abrir un editor de texto en consola):
+
+        git commit "<Descripción>"
+
+        

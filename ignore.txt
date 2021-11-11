@@ -1,0 +1,19 @@
+"""
+    .gitignore
+"""
+
+Es un archivo en el cual se van a listar todos aquellos archivos que queremos que ignorar,
+es decir, los que no queremos subir al repositorio o dar seguimiento.
+
+    * Contenido del archivo ".gitignore"
+
+        nombre_archivo_1.txt
+        nombre_archivo_1.txt
+        nombre_archivo_n.txt
+        .
+        .
+        .
+        nombre_archivo_n.txt
+
+    *Nota: El .gitignore no es la extensión de un archivo, es literalmente como se debe 
+    nombrar al archivo.
